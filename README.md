@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# Pranjali Deshmukh - Data Scientist & Analyst
-
 Welcome to my GitHub portfolio! I'm Pranjali Deshmukh, a dedicated data scientist with a strong foundation in **Python**, **R**, **SQL**, and various data visualization tools like **Tableau**, **Power BI**, and **Excel**. I am passionate about uncovering insights from complex data and applying machine learning to solve real-world problems. This GitHub page serves as a showcase of my projects, skills, and continuous learning journey.
 
 ## 📚 Skills
