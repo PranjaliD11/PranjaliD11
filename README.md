@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**PranjaliD11/PranjaliD11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PranjaliD11/PranjaliD11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. >
 
 # Pranjali Deshmukh - Data Scientist & Analyst
 
