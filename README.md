@@ -18,9 +18,9 @@ Welcome to my GitHub portfolio! I'm Pranjali Deshmukh, a dedicated data scientis
 - Actively participating in Kaggle competitions for hands-on ML practice.
 
 ## 📫 Connect with Me
-- **LinkedIn**: [https://www.linkedin.com/in/pranjali-deshmukh/](your-link)
+- **LinkedIn**: [https://www.linkedin.com/in/pranjali-deshmukh/](https://www.linkedin.com/in/pranjali-deshmukh/)
 - **Email**: [pranjalikdeshmukh11@gmail.com](mailto:pranjalikdeshmukh11@gmail.com)
-- **Kaggle**: [https://www.kaggle.com/pranjali1121](your-link)
+- **Kaggle**: [https://www.kaggle.com/pranjali1121](https://www.kaggle.com/pranjali1121)
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or discuss any projects!
 
