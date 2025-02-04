@@ -27,4 +27,6 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
 ## Github Stats 
 ![Pranjali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PranjaliD11&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PranjaliD11&layout=compact&theme=blue&green)
+
 
