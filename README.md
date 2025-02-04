@@ -24,4 +24,7 @@ Welcome to my GitHub portfolio! I'm Pranjali Deshmukh, a dedicated data scientis
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or discuss any projects!
 
+## Github Stats 
+![Pranjali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PranjaliD11&show_icons=true&theme=radical)
+
 
