@@ -1,28 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Pranjali Deshmukh
 
-Welcome to my GitHub portfolio! I'm Pranjali Deshmukh, a dedicated data scientist with a strong foundation in **Python**, **R**, **SQL**, and various data visualization tools like **Tableau**, **Power BI**, and **Excel**. I am passionate about uncovering insights from complex data and applying machine learning to solve real-world problems. This GitHub page serves as a showcase of my projects, skills, and continuous learning journey.
+I'm a data scientist who enjoys turning messy data into meaningful stories using machine learning, statistical modeling, and a little bit of dashboard magic. From mental health predictions to AI-generated image classification, I build projects that explore real-world questions with curiosity and code.
 
-## 📚 Skills
-- **Programming Languages**: Python, R, SQL
-- **Machine Learning & AI**: Scikit-learn, TensorFlow, NLP Techniques
-- **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn, Excel
-- **Databases**: MySQL, Orcale
-- **Cloud Services**: Google Cloud Platform (GCP), AWS
-- **Web Scraping**: BeautifulSoup, Selenium
-- **Statistics & Hypothesis Testing**
+---
 
+## 🧠 What I Work With
 
-## 🌱 Current Focus
-- Building additional Python projects applying statistical analysis to real-world data.
-- Refining machine learning skills.
-- Actively participating in Kaggle competitions for hands-on ML practice.
+**Languages**: Python, R, SQL  
+**Machine Learning**: Scikit-learn, TensorFlow, NLP, Classification, Time Series  
+**Visualization**: Tableau, Power BI, Seaborn, Matplotlib  
+**Databases**: MySQL, Oracle  
+**Web Scraping**: BeautifulSoup, Selenium  
+**Cloud Tools**: GCP, AWS  
 
-## 📫 Connect with Me
-- **LinkedIn**: [https://www.linkedin.com/in/pranjali-deshmukh/](https://www.linkedin.com/in/pranjali-deshmukh/)
-- **Email**: [pranjalikdeshmukh11@gmail.com](mailto:pranjalikdeshmukh11@gmail.com)
-- **Kaggle**: [https://www.kaggle.com/pranjali1121](https://www.kaggle.com/pranjali1121)
+---
 
-Feel free to explore my repositories and reach out if you'd like to collaborate or discuss any projects!
+## 📌 Featured Projects
+
+- [🧠 Depression Detection](https://github.com/PranjaliD11/Depression_Detection): Built a CatBoost classifier achieving 92% accuracy using mental health data  
+- [🖼️ AI vs Human Image Classifier](https://github.com/PranjaliD11/AI_Vs_Human_Classifier): Fine-tuned Vision Transformer to detect AI-generated images from real ones  
+- [📈 Churn Prediction](https://github.com/PranjaliD11/Churn_Model_XGBoost): Deployed XGBoost model to predict customer churn with 87% accuracy
+
+---
+
+## 🌱 Currently
+
+- Competing in Kaggle challenges to sharpen modeling & EDA  
+- Writing about ML interpretability and model ethics  
+- Expanding my portfolio with real-world datasets
+
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/pranjali-deshmukh/)  
+- [Kaggle](https://www.kaggle.com/pranjali1121)  
+- 📧 pranjalikdeshmukh11@gmail.com
+
+Feel free to explore my work or reach out—I'm always up for a data-flavored challenge.
 
 ## Github Stats 
 ![Pranjali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PranjaliD11&show_icons=true&theme=radical)
