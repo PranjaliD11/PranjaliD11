@@ -4,7 +4,7 @@ I'm a data scientist who enjoys turning messy data into meaningful stories using
 
 ---
 
-## 🧠 What I Work With
+## What I Work With
 
 **Languages**: Python, R, SQL  
 **Machine Learning**: Scikit-learn, TensorFlow, NLP, Classification, Time Series  
