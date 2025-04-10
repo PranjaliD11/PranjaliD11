@@ -18,8 +18,8 @@ I'm a data scientist who enjoys turning messy data into meaningful stories using
 ## 📌 Featured Projects
 
 - [🧠 Depression Detection](https://github.com/PranjaliD11/Depression_Detection): Built a CatBoost classifier achieving 92% accuracy using mental health data  
-- [🖼️ AI vs Human Image Classifier](https://github.com/PranjaliD11/AI_Vs_Human_Classifier): Fine-tuned Vision Transformer to detect AI-generated images from real ones  
-- [📈 Churn Prediction](https://github.com/PranjaliD11/Churn_Model_XGBoost): Deployed XGBoost model to predict customer churn with 87% accuracy
+- [🖼️ AI vs Human Image Classifier](https://www.kaggle.com/code/pranjali1121/image-classification-vit): Fine-tuned Vision Transformer to detect AI-generated images from real ones  
+- [📈 Churn Prediction](https://www.kaggle.com/code/pranjali1121/customer-churn-prediction): Deployed XGBoost model to predict customer churn with 86% accuracy
 
 ---
 
@@ -38,10 +38,5 @@ I'm a data scientist who enjoys turning messy data into meaningful stories using
 - 📧 pranjalikdeshmukh11@gmail.com
 
 Feel free to explore my work or reach out—I'm always up for a data-flavored challenge.
-
-## Github Stats 
-![Pranjali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PranjaliD11&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PranjaliD11&layout=compact&theme=blue&green)
 
 
