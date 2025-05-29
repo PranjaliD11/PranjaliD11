@@ -34,7 +34,8 @@ I'm a data scientist who enjoys turning messy data into meaningful stories using
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/pranjali-deshmukh/)  
-- [Kaggle](https://www.kaggle.com/pranjali1121)  
+- [Kaggle](https://www.kaggle.com/pranjali1121)
+- [Medium](https://medium.com/@pranjalikdeshmukh11)
 - 📧 pranjalikdeshmukh11@gmail.com
 
 Feel free to explore my work or reach out—I'm always up for a data-flavored challenge.
